@@ -1,0 +1,1 @@
+This is a simple landing page project. It is made using HTMl,CSS,JavaScript. The page has a menu and different sections. It is easy to use and understand. This projects is created for learning and practise.Anyone can open the files to see how it works.
